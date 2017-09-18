@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "翻译：Istio Pilot sidecar 代理流量重定向方法"
-date:   2017-09-16 18:30:01
+date:   2017-09-18 18:00:00
 categories: Istio translation
 tags: Istio Pilot proxy sidecar injection
 ---

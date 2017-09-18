@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "翻译：Istio Pilot Proxy sidecar 注入"
-date:   2017-09-16 18:30:01
+date:   2017-09-18 15:30:01
 categories: Istio translation
 tags: Istio Pilot proxy sidecar injection
 ---
